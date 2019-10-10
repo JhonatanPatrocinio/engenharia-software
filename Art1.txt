@@ -1,3 +1,4 @@
 Este é o artefato 1
 Texto 2
 Modificado pelo dev1 ponto 7
+modificado pelo dev2 ponto 8

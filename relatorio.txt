@@ -1,0 +1,8 @@
+Dev 1 (WEB) - Criou o Art1 e deu commit
+Dev 1 (WEB) - Renomeou o Art1 para Art1.txt e deu commit
+Dev 2 (WEB) - Modificou o Art1.txt e deu commit
+Dev 2 (WEB) - Criou o Art2.txt e deu commit
+Dev 1 (WEB) - Atualizou o Art1 e deu commit
+Dev 1 (WEB) - Criou o Art3.txt e deu commit
+Dev 2 (WEB) - Modificou o Art1.txt novamente e deu commit
+Dev 2 (WEB) - Modificou o Art3.txt e deu commit
